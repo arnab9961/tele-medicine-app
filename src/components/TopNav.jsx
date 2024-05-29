@@ -7,7 +7,7 @@ function TopNav() {
     <div className="navbar bg-base-100">
       <div className="flex-1 flex items-center">
         {/* Logo */}
-        <img className="rounded-full h-28 w-28 mr-4"  type="image/svg+xml" href="/logo.jpg" />
+        <img className="rounded-full h-28 w-28 mr-4"  type="image/svg+xml" href="/logo.png" />
         
         {/* Title with margin */}
         <Link to="/">
