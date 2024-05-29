@@ -7,7 +7,7 @@ function TopNav() {
     <div className="navbar bg-base-100">
       <div className="flex-1 flex items-center">
         {/* Logo */}
-        <img className="rounded-full h-28 w-28 mr-4" src="/logo.jpg" alt="TeleMedicine Logo" />
+        <img className="rounded-full h-28 w-28 mr-4" src="./logo.jpg" alt="TeleMedicine Logo" />
         
         {/* Title with margin */}
         <Link to="/">
